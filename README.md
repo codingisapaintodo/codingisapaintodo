@@ -1,1 +1,1 @@
-trying to make a operating system using the XNU Kernel
+Modifying the XNU kernel 
